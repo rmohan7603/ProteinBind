@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/molecule-bank/page": "app/molecule-bank/page.js",
+  "/model/page": "app/model/page.js",
+  "/research/page": "app/research/page.js",
+  "/message/page": "app/message/page.js",
+  "/page": "app/page.js",
+  "/auth-page/signin/page": "app/auth-page/signin/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/forget-password/page": "app/forget-password/page.js",
+  "/auth-page/signup/page": "app/auth-page/signup/page.js"
+}

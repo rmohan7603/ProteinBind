@@ -1,0 +1,15 @@
+{
+  "components/Dashboard/index.tsx -> @/components/Dashboard/components/DashboardCardChat": {
+    "id": "components/Dashboard/index.tsx -> @/components/Dashboard/components/DashboardCardChat",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_Dashboard_components_DashboardCardChat_tsx.js"
+    ]
+  },
+  "components/Dashboard/index.tsx -> @/components/Dashboard/components/DashboardCardMap": {
+    "id": "components/Dashboard/index.tsx -> @/components/Dashboard/components/DashboardCardMap",
+    "files": [
+      "static/css/_app-pages-browser_src_components_Dashboard_components_DashboardCardMap_tsx.css",
+      "static/chunks/_app-pages-browser_src_components_Dashboard_components_DashboardCardMap_tsx.js"
+    ]
+  }
+}
